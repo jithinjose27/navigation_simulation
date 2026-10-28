@@ -234,7 +234,6 @@ navigation_simulation/                <-- Root of repository / Workspace root
 │       │   └── obstacles_world.yaml  <-- Map metadata (origin and resolution)
 │       ├── models/                   <-- Gazebo models (lab walls, furniture)
 │       ├── scripts/                  <-- Executable scripts (spawner helper)
-│       ├── src/                      <-- Python node source files
 │       └── worlds/                   <-- Virtual simulation environments
 │           ├── obstacles.world       <-- Arena with walls, boxes, and cylinders
 │           ├── empty.world           <-- Clean empty ground plane
